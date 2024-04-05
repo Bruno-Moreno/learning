@@ -38,3 +38,6 @@ Make sure that you have *homebrew* installed:
 
 Spark gets instalated at (*/opt/homebrew/Cellar/apache-spark/*)
 
+Other installation Method 
+https://medium.com/@jpurrutia95/install-and-set-up-pyspark-in-5-minutes-m1-mac-eb415fe623f3
+
